@@ -1,0 +1,3 @@
+/Applications/repos/OSI_HW1/cmake-build-debug/CMakeFiles/OSI_HW1.dir
+/Applications/repos/OSI_HW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Applications/repos/OSI_HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
